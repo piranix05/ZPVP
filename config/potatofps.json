@@ -1,0 +1,11 @@
+{
+  "potatoMode": true,
+  "disableClouds": true,
+  "disableShadows": true,
+  "minRender": 4,
+  "maxRender": 16,
+  "targetFps": 70,
+  "adjustmentSpeed": 1,
+  "showHud": true,
+  "entityRenderDistance": 64
+}

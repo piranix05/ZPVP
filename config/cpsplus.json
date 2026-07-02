@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "corner": "TOP_RIGHT",
+  "padding": 5,
+  "leftText": "LMB",
+  "rightText": "RMB",
+  "showLabel": true,
+  "textStyle": "NORMAL",
+  "textColor": 16777215,
+  "textShadow": true,
+  "drawBackground": true,
+  "backgroundColor": 1342177280,
+  "cornerRadius": 4
+}

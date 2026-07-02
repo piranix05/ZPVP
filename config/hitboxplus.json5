@@ -1,0 +1,151 @@
+{
+	configVersion: 1,
+	enabled: true,
+	defaultHitbox: {
+		red: 255,
+		green: 255,
+		blue: 255,
+		show_hitbox: true,
+		hitbox_thickness: 2.5,
+		hitbox_pattern: "FULL",
+		show_eye_line: true,
+		show_look_direction: true
+	},
+	selfPlayer: {
+		red: 255,
+		green: 255,
+		blue: 255,
+		show_hitbox: true,
+		hitbox_thickness: 2.5,
+		hitbox_pattern: "FULL",
+		show_eye_line: true,
+		show_look_direction: true
+	},
+	neutralPlayer: {
+		red: 255,
+		green: 255,
+		blue: 255,
+		show_hitbox: true,
+		hitbox_thickness: 2.5,
+		hitbox_pattern: "FULL",
+		show_eye_line: true,
+		show_look_direction: true
+	},
+	friendPlayer: {
+		red: 10,
+		green: 64,
+		blue: 12,
+		show_hitbox: true,
+		hitbox_thickness: 2.5,
+		hitbox_pattern: "FULL",
+		show_eye_line: true,
+		show_look_direction: true
+	},
+	enemyPlayer: {
+		red: 255,
+		green: 63,
+		blue: 51,
+		show_hitbox: true,
+		hitbox_thickness: 2.5,
+		hitbox_pattern: "FULL",
+		show_eye_line: true,
+		show_look_direction: true
+	},
+	usePlayerTeamColors: false,
+	groupHitboxes: {
+		PASSIVE: {
+			enabled: true,
+			color: {
+				red: 143,
+				green: 163,
+				blue: 30,
+				show_hitbox: true,
+				hitbox_thickness: 2.5,
+				hitbox_pattern: "FULL",
+				show_eye_line: true,
+				show_look_direction: true
+			}
+		},
+		HOSTILE: {
+			enabled: true,
+			color: {
+				red: 140,
+				green: 16,
+				blue: 7,
+				show_hitbox: true,
+				hitbox_thickness: 2.5,
+				hitbox_pattern: "FULL",
+				show_eye_line: true,
+				show_look_direction: true
+			}
+		},
+		BOSS: {
+			enabled: true,
+			color: {
+				red: 145,
+				green: 18,
+				blue: 188,
+				show_hitbox: true,
+				hitbox_thickness: 2.5,
+				hitbox_pattern: "FULL",
+				show_eye_line: true,
+				show_look_direction: true
+			}
+		},
+		PROJECTILE: {
+			enabled: false,
+			color: {
+				red: 255,
+				green: 255,
+				blue: 255,
+				show_hitbox: true,
+				hitbox_thickness: 2.5,
+				hitbox_pattern: "FULL",
+				show_eye_line: true,
+				show_look_direction: true
+			}
+		},
+		EFFECT: {
+			enabled: false,
+			color: {
+				red: 255,
+				green: 255,
+				blue: 255,
+				show_hitbox: true,
+				hitbox_thickness: 2.5,
+				hitbox_pattern: "FULL",
+				show_eye_line: true,
+				show_look_direction: true
+			}
+		},
+		VEHICLE: {
+			enabled: false,
+			color: {
+				red: 255,
+				green: 255,
+				blue: 255,
+				show_hitbox: true,
+				hitbox_thickness: 2.5,
+				hitbox_pattern: "FULL",
+				show_eye_line: true,
+				show_look_direction: true
+			}
+		},
+		MISC: {
+			enabled: false,
+			color: {
+				red: 255,
+				green: 255,
+				blue: 255,
+				show_hitbox: true,
+				hitbox_thickness: 2.5,
+				hitbox_pattern: "FULL",
+				show_eye_line: true,
+				show_look_direction: true
+			}
+		}
+	},
+	entityOverrides: {},
+	friends: [],
+	enemies: []
+}

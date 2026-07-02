@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "position": "MIDDLE_LEFT",
+  "scale": 1.0,
+  "showHelmet": true,
+  "showChestplate": true,
+  "showLeggings": true,
+  "showBoots": true
+}

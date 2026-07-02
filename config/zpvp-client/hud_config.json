@@ -1,0 +1,13 @@
+{
+  "fpsLimit": 240,
+  "fov": 90,
+  "crosshairStyle": "cross",
+  "crosshairColor": "#C5A059",
+  "crosshairSize": 6,
+  "keystrokesEnabled": true,
+  "armorStatusEnabled": true,
+  "cpsCounterEnabled": true,
+  "menuMusicEnabled": false,
+  "speedBpsEnabled": true,
+  "potionStatusEnabled": true
+}
